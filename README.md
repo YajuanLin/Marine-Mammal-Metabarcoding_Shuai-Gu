@@ -1,4 +1,4 @@
-# Dolphin body-site microbiome — analysis code
+# Dolphin body-site microbiome — analysis code by Shuai Gu
 
 Code to reproduce the bioinformatic and statistical analyses and the figures in
 Fiori et al., *Sex, contraceptives, and social grouping shape the structure of
