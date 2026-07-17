@@ -1,5 +1,6 @@
-# Dolphin body-site microbiome — analysis code by Shuai Gu
+# Dolphin body-site microbiome — analysis code
 
+Developed and maintained by Shuai Gu, shuai.gu@yahoo.com
 Code to reproduce the bioinformatic and statistical analyses and the figures in
 Fiori et al., *Sex, contraceptives, and social grouping shape the structure of
 dolphin-associated microbiomes* (submitted to *Animal Microbiome*).
